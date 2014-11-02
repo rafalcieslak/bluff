@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bluffclient", "bluffclient.csproj", "{106749E0-9144-4510-A9A1-BCF5C1BF6784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{106749E0-9144-4510-A9A1-BCF5C1BF6784}.Debug|x86.ActiveCfg = Debug|x86
+		{106749E0-9144-4510-A9A1-BCF5C1BF6784}.Debug|x86.Build.0 = Debug|x86
+		{106749E0-9144-4510-A9A1-BCF5C1BF6784}.Release|x86.ActiveCfg = Release|x86
+		{106749E0-9144-4510-A9A1-BCF5C1BF6784}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = bluffclient.csproj
+	EndGlobalSection
+EndGlobal

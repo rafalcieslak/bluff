@@ -1,0 +1,6 @@
+<WorkspaceItem ctype="Workspace">
+  <Items>
+    <Item>bluffserver/bluffserver.sln</Item>
+    <Item>bluffclient/bluffclient.sln</Item>
+  </Items>
+</WorkspaceItem>
